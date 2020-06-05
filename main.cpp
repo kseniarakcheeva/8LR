@@ -1,3 +1,4 @@
+//учебная программа
 #include <stdio.h>
 #include "std.h"
 
